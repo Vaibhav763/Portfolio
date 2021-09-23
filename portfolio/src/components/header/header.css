@@ -3,33 +3,38 @@
     top:0;
     box-shadow: 0 2px 2px rgba(14, 0, 65, 0.1);
     z-index: 10000;
-    background-color: #030355;
+    background-color: #091c34;
     padding:10px 0;
 }
 .navbar__main {
     display: flex;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 8px auto;
     justify-content: space-between;
     align-items: center;
+    background-color: #091c34;
 }
 .navname {
     width:60px;
     margin: 0 20px;
     color: #fefeff;
+    background-color: #091c34;
 }
 .navbar__list--desktop {
     list-style: none;
     display: flex;
     margin: 0;
+    background-color: #091c34;
 }
 .navbar__list--desktop li {
     margin: 0 20px;
     font-size: 1.2rem;
+    background-color: #091c34;
 }
 .navbar__list--desktop li a {
     color: #fefeff;
     text-decoration:none;
+    background-color: #091c34;
 }
 .navbar__list--desktop li::after
 {

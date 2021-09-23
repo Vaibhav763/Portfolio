@@ -1,7 +1,7 @@
 import Header from './components/header/Header';
-import Home from './components/Home';
+import Home from './components/about/Home';
 import Contact from './components/Contact';
-import Projects from './components/Projects';
+import Projects from './components/project/Projects';
 import Skill from './components/Skill';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Header />
       <Home />
-      <Skill />
+     
       <Projects />
       <Contact />
     </div>
