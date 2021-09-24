@@ -14,10 +14,10 @@ import './skill.css';
 const Skill = () => {
     return (  
 
-    <div className="skill">
+    <div className="skill" id='skills'>
 
         <h1 className='skill__heading'>My Tech Stack</h1>
-<div className="skill__look">
+        <div className="skill__look">
         <div className='skill__section'>
                 
             <div className="skill__box">

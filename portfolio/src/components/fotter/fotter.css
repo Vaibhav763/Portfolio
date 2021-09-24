@@ -1,0 +1,22 @@
+.fotter {
+    margin: 50px auto 20px auto;
+    padding: 10px;
+    position: relative;
+    width: 90%;
+   max-width: 1200px;
+    }
+
+.fotter__head {
+    color: #aeaeb7  ;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight:400;
+    margin-top:50px;
+}
+
+@media screen and (max-width:600px) {
+    .fotter__head {
+        font-size: 1.2rem;
+    }
+ 
+}

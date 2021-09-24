@@ -8,18 +8,17 @@
 }
 .project__basicInfo {
     box-sizing: border-box;
-    padding: 10px;
     width: 40%;
-    border: 3px solid #242429;
+    border: 4px solid #6caa07;
     display: flex;
     flex-direction: column;
    
 }
 .project__detail{
-    background: #242429;
+    /*background: #242429;*/
     box-sizing: border-box;
     width: 60%;
-    padding: 0 20px;
+    padding: 0 20px 0 50px;
     border-radius: 4px;
     align-items: center;
 }
@@ -69,7 +68,7 @@
     }
     .project__basicInfo {
         width: 100%;
-        padding: 15px;
+
     }
     .project__detail {
       width: 100%;
