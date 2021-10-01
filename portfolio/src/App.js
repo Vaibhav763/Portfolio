@@ -9,8 +9,6 @@ import React,{useState,useEffect} from 'react';
 
 function App() {
 
-  const url1='./loading.json'
-  const url2='./bottom.json'
 
   const [ loading,Setloading] = useState(true);
 
