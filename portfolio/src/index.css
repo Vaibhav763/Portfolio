@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 /* base styles */
 * {
@@ -8,5 +8,26 @@
   background-color: #141434;
 }
 
+.loading-container {
+  width: 600px;
+  height: 600px;
+  margin-top: 10%;
+  margin-left: 30%;
+}
 
-
+@media screen and (max-width: 1100px) {
+  .loading-container {
+    margin-left: 10%;
+    margin-top: 15%;
+    width: 600px;
+    height: 600px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .loading-container {
+    margin-left: 5%;
+    margin-top: 30%;
+    width: 310px;
+    height: 350px;
+  }
+}

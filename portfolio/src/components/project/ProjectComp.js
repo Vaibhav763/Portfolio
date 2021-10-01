@@ -1,15 +1,18 @@
 import './project.css';
 import { FaLink,FaGithub } from "react-icons/fa";
-
+import Fade from 'react-reveal/Fade';
 
 const Project = (props) => {
     return (
         
     <div className='project'>
+        <Fade left>
         <div className="project__basicInfo">
             <img className="project__image" src={props.pic}  loading='lazy' />
         </div>
+        </Fade>
 
+        <Fade right>
         <div className="project__detail">
             <h2 className="project__title">{props.title}</h2>
             <p className="project__desc">{props.desc}</p>
@@ -25,6 +28,7 @@ const Project = (props) => {
                 <a href={props.githubLink}><FaGithub /></a>
             </div>
         </div>
+        </Fade>
     </div>
         
     )

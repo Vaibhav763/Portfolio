@@ -2,6 +2,7 @@
 import Project from './ProjectComp';
 import port from './port.png';
 import paper from './paper.png';
+import job from './job.png';
 
 function Projects() {
     return (
@@ -22,6 +23,18 @@ function Projects() {
               liveLink="http://paperfactorymnnit.pythonanywhere.com/"
               githubLink="https://github.com/Vaibhav763/paper-factory"
               pic = {paper}
+              />
+
+             {/* Recruit Plus */}
+             <Project title="Recruit Plus" 
+              desc="DesignedWeb Application for fnding the Jobs Opening as per our
+              requirement by fetching details from Muse API.
+              • Implemented Dynamic Search Bar and Pagination with top 20 Jobs
+              per page to make it user-friendly along with dark-light mode feature."
+              langs={['React JS','Muse API']} 
+              liveLink="https://recruitplus.netlify.app"
+              githubLink="https://github.com/Vaibhav763/Job_Portal"
+              pic = {job}
               />
 
             {/* Portfolio project */}
