@@ -2,6 +2,7 @@ import './home.css';
 import React, { useEffect, useRef } from 'react';
 import Lottie from 'lottie-web';
 import animate from 'lottie-web';
+import Typewrite from './Typewrite';
 
 function Home() {
 
@@ -26,13 +27,11 @@ function Home() {
 
             <div className='intro__desc'>
                 <h1 className='intro__head'>Hi, I'm Vaibhav Agrawal</h1>
-                <h1 className='intro__text'>Web Developer.</h1>
+                <h1 className='intro__text'><Typewrite/> </h1>
                 <div className="details">
-                    <p>I enjoy solving complex problems.</p>
-                    <p>Frequently praised as detail-oriented by my peers,</p> 
-                    <p>I can be relied upon to help your company achieve </p>
-                    <p>its goals by providing sustainable and scalable solution.</p>
-                    <a href="#about" className='intro__aboutLink'>Get In Touch</a>
+                    <p>I enjoy solving complex problems.Frequently praised as detail-oriented by my peers. 
+                    I can be relied upon to help your company achieve its goals by providing sustainable and scalable solution.</p>
+                    <a href='#contact' className='intro__aboutLink'>Get In Touch</a>
                 </div>
             </div>
         </div>

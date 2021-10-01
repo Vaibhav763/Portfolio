@@ -8,7 +8,7 @@ const Header = () => {
     return (
      <nav className='navbar'>
       <div className='navbar__main'>
-        <h1 className="navname"> Vaibhav </h1>
+        <h1 className="navname"> Vaibhav? </h1>
         <ul className='navbar__list--desktop'>
           
           <li><a href='#projects'>Projects</a></li>

@@ -6,7 +6,7 @@ function Form() {
   const [state, handleSubmit] = useForm("mjvjldgq");
 
   if (state.succeeded) {
-      return <p className="contact__message contact__message--success">Thanks for Contacting!</p>;
+      return <p className="contact__message contact__message--success">Thanks for Contacting !</p>;
   }
   return (
 

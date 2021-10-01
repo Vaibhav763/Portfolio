@@ -6,10 +6,10 @@
 
 .contact__heading {
   margin: 0 auto;
-  padding: 50px 500px 50px 500px;
-  font-size: 3rem;
+  padding: 50px 100px 100px 450px;
+  font-size: 5rem;
   font-weight: 600;
-  font-family: sans-serif;
+  font-family: emoji;
 }
 
 .contact__section {
@@ -24,7 +24,7 @@
   box-sizing: border-box;
   padding: 20px 50px 20px 50px;
   width: 40%;
-  border: 3px solid #242429;
+  border: 3px solid #6caa07;
   display: flex;
   flex-direction: column;
 }
@@ -97,12 +97,16 @@
     margin: 60px auto;
   }
   .contact__heading {
-    padding: 0 100px 50px 80px;
+    padding: 0 10px 50px 20px;
   }
   .contact__title {
     font-size: 1.5rem;
   }
   .contact__text {
     font-size: 1.1rem;
+  }
+  .form__detail {
+    width: 100%;
+    padding: 15px 0 15px 5px;
   }
 }
