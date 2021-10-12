@@ -8,8 +8,7 @@ import Load from './components/load/Load';
 import React,{useState,useEffect} from 'react';
 
 function App() {
-
-
+  
   const [ loading,Setloading] = useState(true);
 
   useEffect(() => {
