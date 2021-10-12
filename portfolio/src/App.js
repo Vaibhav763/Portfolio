@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
    setTimeout(() => {
     Setloading(false)
-   },4)})
+   },4000)})
 
   return (
     <div className="App">
