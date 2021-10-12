@@ -1,35 +1,37 @@
 {
   "files": {
-    "main.css": "/Vaibhav_Portfolio/static/css/main.21cffaae.chunk.css",
-    "main.js": "/Vaibhav_Portfolio/static/js/main.ad2df8f9.chunk.js",
-    "main.js.map": "/Vaibhav_Portfolio/static/js/main.ad2df8f9.chunk.js.map",
+    "main.css": "/Vaibhav_Portfolio/static/css/main.80c5ef70.chunk.css",
+    "main.js": "/Vaibhav_Portfolio/static/js/main.d08b0ec7.chunk.js",
+    "main.js.map": "/Vaibhav_Portfolio/static/js/main.d08b0ec7.chunk.js.map",
     "runtime-main.js": "/Vaibhav_Portfolio/static/js/runtime-main.0f8771c5.js",
     "runtime-main.js.map": "/Vaibhav_Portfolio/static/js/runtime-main.0f8771c5.js.map",
-    "static/js/2.ad917f6a.chunk.js": "/Vaibhav_Portfolio/static/js/2.ad917f6a.chunk.js",
-    "static/js/2.ad917f6a.chunk.js.map": "/Vaibhav_Portfolio/static/js/2.ad917f6a.chunk.js.map",
+    "static/js/2.f6912447.chunk.js": "/Vaibhav_Portfolio/static/js/2.f6912447.chunk.js",
+    "static/js/2.f6912447.chunk.js.map": "/Vaibhav_Portfolio/static/js/2.f6912447.chunk.js.map",
     "static/js/3.5c3ccacc.chunk.js": "/Vaibhav_Portfolio/static/js/3.5c3ccacc.chunk.js",
     "static/js/3.5c3ccacc.chunk.js.map": "/Vaibhav_Portfolio/static/js/3.5c3ccacc.chunk.js.map",
     "index.html": "/Vaibhav_Portfolio/index.html",
-    "static/css/main.21cffaae.chunk.css.map": "/Vaibhav_Portfolio/static/css/main.21cffaae.chunk.css.map",
-    "static/js/2.ad917f6a.chunk.js.LICENSE.txt": "/Vaibhav_Portfolio/static/js/2.ad917f6a.chunk.js.LICENSE.txt",
+    "static/css/main.80c5ef70.chunk.css.map": "/Vaibhav_Portfolio/static/css/main.80c5ef70.chunk.css.map",
+    "static/js/2.f6912447.chunk.js.LICENSE.txt": "/Vaibhav_Portfolio/static/js/2.f6912447.chunk.js.LICENSE.txt",
+    "static/media/OneStop.dbecd7b7.png": "/Vaibhav_Portfolio/static/media/OneStop.dbecd7b7.png",
     "static/media/bootstrap.98585727.svg": "/Vaibhav_Portfolio/static/media/bootstrap.98585727.svg",
     "static/media/c++.0a81196c.png": "/Vaibhav_Portfolio/static/media/c++.0a81196c.png",
     "static/media/css3.9cecabbf.svg": "/Vaibhav_Portfolio/static/media/css3.9cecabbf.svg",
+    "static/media/expressjs.f5f7bbf2.png": "/Vaibhav_Portfolio/static/media/expressjs.f5f7bbf2.png",
     "static/media/github.e0493221.svg": "/Vaibhav_Portfolio/static/media/github.e0493221.svg",
     "static/media/html5.c28bc668.svg": "/Vaibhav_Portfolio/static/media/html5.c28bc668.svg",
     "static/media/job.e2d85b23.png": "/Vaibhav_Portfolio/static/media/job.e2d85b23.png",
-    "static/media/js.fa3ecb79.svg": "/Vaibhav_Portfolio/static/media/js.fa3ecb79.svg",
     "static/media/mongodb.55003af2.svg": "/Vaibhav_Portfolio/static/media/mongodb.55003af2.svg",
     "static/media/nodejs.3dc364b8.svg": "/Vaibhav_Portfolio/static/media/nodejs.3dc364b8.svg",
     "static/media/paper.9afebae0.png": "/Vaibhav_Portfolio/static/media/paper.9afebae0.png",
     "static/media/port.699642c6.png": "/Vaibhav_Portfolio/static/media/port.699642c6.png",
     "static/media/react.7098e271.svg": "/Vaibhav_Portfolio/static/media/react.7098e271.svg",
+    "static/media/redux.0e4fb1c8.svg": "/Vaibhav_Portfolio/static/media/redux.0e4fb1c8.svg",
     "static/media/sql.d5329c3c.jpg": "/Vaibhav_Portfolio/static/media/sql.d5329c3c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0f8771c5.js",
-    "static/js/2.ad917f6a.chunk.js",
-    "static/css/main.21cffaae.chunk.css",
-    "static/js/main.ad2df8f9.chunk.js"
+    "static/js/2.f6912447.chunk.js",
+    "static/css/main.80c5ef70.chunk.css",
+    "static/js/main.d08b0ec7.chunk.js"
   ]
 }
