@@ -7,7 +7,7 @@ const Typewrite = () => {
                 <span className="badge badge-dark">
                 <Typewriter
                 options={{
-                    strings: ['Student', 'Web Developer'],
+                    strings: ['Student', 'Web Developer' ,'Tech Enthusiast'],
                     autoStart: true,
                     loop: true,
                 }}

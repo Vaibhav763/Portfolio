@@ -1,5 +1,5 @@
 import './contact.css';
-import { GrLinkedinOption,GrInstagram,GrGithub ,GrFacebook,GrMail } from "react-icons/gr";
+import { GrLinkedinOption,GrGithub ,GrFacebook,GrMail } from "react-icons/gr";
 import { FaLink} from "react-icons/fa";
 import Form from './form';
 
@@ -19,7 +19,7 @@ const Connect = () => {
                     <a href="https://www.linkedin.com/in/VaibhavMNNIT/" target="_blank" rel="noreferrer"><GrLinkedinOption /> LinkedIn</a>
                     <a href="https://github.com/Vaibhav763" target="_blank" rel="noreferrer" ><GrGithub /> Github</a>
                     <a href="https://www.facebook.com/vaibhav.agrawal.5036/" target="_blank" rel="noreferrer"><GrFacebook /> Facebook</a>
-                    <a href="" target="_blank" rel="noreferrer" ><GrInstagram/> Instagram</a>
+                    {/* <a href="" target="_blank" rel="noreferrer" ><GrInstagram/> Instagram</a> */}
                     <a href="mailto:vaibhavagrawal093@gmail.com" target="_blank"  rel="noreferrer"><GrMail/> Mail</a>
                     <a href=""><FaLink/> Website</a>
                     </ul>

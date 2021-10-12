@@ -8,7 +8,7 @@ const Project = (props) => {
     <div className='project'>
         <Fade left>
         <div className="project__basicInfo">
-            <img className="project__image" src={props.pic}  loading='lazy' />
+            <img className="project__image" alt="" src={props.pic}  loading='lazy' />
         </div>
         </Fade>
 

@@ -76,7 +76,7 @@
 
 @media screen and (max-width: 600px) {
   .project__title {
-    font-size: 1.5rem;
+    font-size: 2 rem;
   }
   .project__desc {
     font-size: 1.1rem;
