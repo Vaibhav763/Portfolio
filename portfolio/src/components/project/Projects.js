@@ -14,11 +14,11 @@ function Projects() {
 
             {/* MNNIT Quora Project */}
             <Project title="One Stop"
-             desc="Developed Web application which will help the students to get their 
+             desc="•Developed Web application which will help the students to get their 
              doubts solved by connecting with respected Seniors along with their 
              Portfolio creation to guide and enhance their profile.
-             Implemented features like Login/Sign Up, User Authentication,
-            Update Profile, Posting Question with upvote/downvote option."
+            •Setup a Login/Signup functionality by email and password authentication through JSON Web Tokens
+            •Facilitated features like Explore section, Post with Like/Dislike button, Fetched GitHub repos via GitHub APIs."
              langs={['React Js','Redux','Node JS','Mongo DB','Express','Postman']}
              liveLink=""
              githubLink="https://github.com/Vaibhav763/OneStop"
@@ -27,11 +27,12 @@ function Projects() {
 
             {/* Paper Factory */}
               <Project title="Paper Factory" 
-              desc="Web Application where students can get all the past year
+              desc="•Web Application where students can get all the past year
               papers along with the Notes of Seniors, Related Books, Lab Manuals,
               Tutorial Sheets.Adopted Modular Design by creating a separate section for each of
               12 subjects.
-              Impact: Benefitting the students during Covid hard times with 100
+              •Adapted user-friendly interface by creating separate sections for every 12 subjects with different sectional headings
+              •Impact: Benefitting the students during Covid hard times with 100
               k+ clicks each month"
               langs={['HTML','Css','Django']} 
               liveLink="http://paperfactorymnnit.pythonanywhere.com/"
@@ -41,15 +42,16 @@ function Projects() {
 
              {/* Recruit Plus */}
              <Project title="Recruit Plus" 
-              desc="DesignedWeb Application for fnding the Jobs Opening as per our
-              requirement by fetching details from Muse API.
-              • Implemented Dynamic Search Bar and Pagination with top 20 Jobs
-              per page to make it user-friendly along with dark-light mode feature."
+              desc="•Developed a website to find current Job Openings in different departments by fetching details from Muse API
+              •Composed of Dynamic Search Bar and Pagination with the top 20 Jobs displayed on each page
+              •Utilized modular and responsive design to ensure 100% compatibility across all devices"
               langs={['React JS','Muse API' ,'Lottie-Animation' ,'React-Bootstrap']} 
               liveLink="https://recruitplus.netlify.app"
               githubLink="https://github.com/Vaibhav763/Job_Portal"
               pic = {job}
               />
+
+
 
             {/* Portfolio project */}
              <Project title="Portfolio"
